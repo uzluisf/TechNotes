@@ -5,6 +5,7 @@ This repo contains notes around techology in knowledge, e.g., computer science, 
 It's not my aim to create a corpus of notes that will be useful to anyone else but me. Thus, you might find incomplete notes, notes that make no sense, notes that you wouldn't have taken yourself, notes that are obvious, notes with errors, etc. 
 
 ## Installation
+
 All these notes are in Markdown, thus they could be edited with any text editor and rendered with any text editor that supports Markdown. However I am creating them with [Obsidian](https://obsidian.md/), a Markdown editor that supports backlinking among notes. Thus, install Obsidian if you want to use these notes at their *full potential*.
 
 ## How to Navigate My Notes
@@ -18,4 +19,4 @@ My notes go through a three stages process, each of which is described by a tag:
 - `#literature`. These are polished versions of `#fleeting` notes, where I organize and refine the content by removing unnecesary stuff (to me), backlink to other notes, and highlight words. 
 - `#permanent`. At this point, the note represents a single piece of knowledge, oftentimes put into my own words. The aim of each `#permanent` note is to be concise and atomized, i.e., a note shouldn't be discussed a few different topics. This is known as the [principle of atomicity](https://neuron.zettel.page/atomic#:~:text=Zettelkasten%20notes%20are%20atomic%20and,idea%20and%20one%20idea%20only.).
 
-
+## Using This Obsidian Vault
