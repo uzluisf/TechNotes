@@ -2,7 +2,7 @@
 
 This repo contains notes around techology in knowledge, e.g., computer science, programming, software engineering, etc. I have taken them during my studying as a way to internalize what I've studied and in order to have a place to go back to if I ever want to review that knowledge. There are simply my notes, and don't dictate how anyone should be taking their own notes: I have done what encouraged me to take notes with the least amount of friction. 
 
-It's not my aim to create a corpus of notes that will be useful to anyone else but me. Thus, you might find incomplete notes, notes that make no sense, notes that you wouldn't have taken yourself, notes that are obvious, etc. 
+It's not my aim to create a corpus of notes that will be useful to anyone else but me. Thus, you might find incomplete notes, notes that make no sense, notes that you wouldn't have taken yourself, notes that are obvious, notes with errors, etc. 
 
 ## Installation
 All these notes are in Markdown, thus they could be edited with any text editor and rendered with any text editor that supports Markdown. However I am creating them with [Obsidian](https://obsidian.md/), a Markdown editor that supports backlinking among notes. Thus, install Obsidian if you want to use these notes at their *full potential*.
