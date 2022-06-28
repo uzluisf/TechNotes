@@ -1,0 +1,6 @@
+{
+  "userIllegalSymbols": [],
+  "ignoredFiles": {},
+  "ignoreRegex": "README.md",
+  "useFileOpenHook": true
+}

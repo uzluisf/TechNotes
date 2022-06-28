@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Const, Let, and Var in JavaScript.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Const, Let, and Var in JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,17 +79,36 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "d642f6dfa1ce40dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "d8a5d82d55f09f92",
   "lastOpenFiles": [
+    "Const, Let, and Var in JavaScript.md",
     "README.md",
-    "().md"
+    "Notes/Capitalizing Titles.md",
+    "Notes/How I Use Anacron to Backup my Obsidian Vault to Github.md",
+    "Notes/Docker.md",
+    "Notes/Bit Manipulation.md",
+    "Notes/Git.md",
+    "Notes/Version Control System.md",
+    "Notes/The Three States of Git.md",
+    "Notes/Git Configuration.md"
   ]
 }
